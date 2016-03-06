@@ -1,8 +1,8 @@
 # A 3D Navigation menu with html and CSS
 
-Websites often have limited available space especially on small screens. One way to add information with taking extra space is use of 3D elements. 
+Websites often have limited real estate, especially on small screens. One way to add information without taking extra space is use of 3D elements. 
 
-Elements appear with 3D rotation applied to them without using any fancy calculations -- just CSS formatting.
+One can apply 3D rotation to elements without using any fancy calculations -- just CSS formatting.
 
 Go to the file index.html and double click it to watch how this works.
 
