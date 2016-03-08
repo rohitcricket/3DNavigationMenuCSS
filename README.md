@@ -10,9 +10,11 @@ You will see information, like links, on the back of the card. This is one way t
 
 Check out the video and images below.
 
-The video shows how the cards work. 
+# Video of how the cards work.
 https://www.youtube.com/watch?v=mo2DtlQfqQg&index=3&list=PLrtRjIOGYRoxhpwzuGm4cvk9SiM7hN_sm)
 
+
+# Images of cards
 ![Images of Cards]
 (https://github.com/rohitcricket/3DNavigationMenuCSS/blob/master/img/img1.png)
 
