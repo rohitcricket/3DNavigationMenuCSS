@@ -10,7 +10,7 @@ You will see information, like links, on the back of the card. This is one way t
 
 Check out the video and images below.
 
-![3D Navigation Menu Video]
+The video shows how the cards work. 
 https://www.youtube.com/watch?v=mo2DtlQfqQg&index=3&list=PLrtRjIOGYRoxhpwzuGm4cvk9SiM7hN_sm)
 
 ![Images of Cards]
